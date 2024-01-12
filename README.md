@@ -15,17 +15,17 @@ value of the variable PASS to your sql password. (line 17)
 window), and run DAO_Main.java, which is the driver code.
 5. The project should now run!
 
-There are two kinds of users of this software : Customers and Employees.
+There are two kinds of users of this software : Customers and Employees.\
 Use cases for the customers:
-1)Check Available Items
-2)Order items by price
-3)Buy products
-4)Generate Receipt
-5)Exit
+1) Check Available Items
+2) Order items by price
+3) Buy products
+4) Generate Receipt
+5) Exit
 
 Use cases for the employee:
-1)Check employee details  (a functionality, only available to the owner)
-2)Check the max sold product
-3)Check inventory
-4)Add a product
-5)Exit
+1) Check employee details  (a functionality, only available to the owner)
+2) Check the max sold product
+3) Check inventory
+4) Add a product
+5) Exit
