@@ -1,4 +1,4 @@
-# Retail-Store-DBMS
+# QueryCart
 Implemented a Retail Store Management System using Java and MySQL
 
 Here are the steps to get the project running:
